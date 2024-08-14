@@ -1,0 +1,11 @@
+D:\E\theFiveSemester\tuan1\tuan1\bin\Debug\tuan1.exe.config
+D:\E\theFiveSemester\tuan1\tuan1\bin\Debug\tuan1.exe
+D:\E\theFiveSemester\tuan1\tuan1\bin\Debug\tuan1.pdb
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.csproj.AssemblyReference.cache
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.csproj.SuggestedBindingRedirects.cache
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.giaiphuongtrinh.resources
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.Properties.Resources.resources
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.csproj.GenerateResource.cache
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.csproj.CoreCompileInputs.cache
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.exe
+D:\E\theFiveSemester\tuan1\tuan1\obj\Debug\tuan1.pdb
