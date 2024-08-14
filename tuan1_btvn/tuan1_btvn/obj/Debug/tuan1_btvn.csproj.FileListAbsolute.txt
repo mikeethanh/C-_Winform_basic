@@ -1,0 +1,10 @@
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\bin\Debug\tuan1_btvn.exe.config
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\bin\Debug\tuan1_btvn.exe
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\bin\Debug\tuan1_btvn.pdb
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.AssemblyReference.cache
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Properties.Resources.resources
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.GenerateResource.cache
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.CoreCompileInputs.cache
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.exe
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.pdb
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Form1.resources
