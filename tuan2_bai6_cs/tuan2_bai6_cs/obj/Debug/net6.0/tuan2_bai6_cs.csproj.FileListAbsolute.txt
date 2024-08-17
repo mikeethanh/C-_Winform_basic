@@ -1,0 +1,15 @@
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\bin\Debug\net6.0\tuan2_bai6_cs.exe
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\bin\Debug\net6.0\tuan2_bai6_cs.deps.json
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\bin\Debug\net6.0\tuan2_bai6_cs.runtimeconfig.json
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\bin\Debug\net6.0\tuan2_bai6_cs.dll
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\bin\Debug\net6.0\tuan2_bai6_cs.pdb
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.csproj.AssemblyReference.cache
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.AssemblyInfoInputs.cache
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.AssemblyInfo.cs
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.csproj.CoreCompileInputs.cache
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.dll
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\refint\tuan2_bai6_cs.dll
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.pdb
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\tuan2_bai6_cs.genruntimeconfig.cache
+D:\E\theFiveSemester\tuan2_bai6_cs\tuan2_bai6_cs\obj\Debug\net6.0\ref\tuan2_bai6_cs.dll

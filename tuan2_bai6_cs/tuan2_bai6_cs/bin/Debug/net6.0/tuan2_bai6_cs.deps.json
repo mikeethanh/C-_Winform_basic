@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tuan2_bai6_cs/1.0.0": {
+        "runtime": {
+          "tuan2_bai6_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tuan2_bai6_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

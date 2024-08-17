@@ -54,14 +54,14 @@
             this.label1.Location = new System.Drawing.Point(17, 44);
             this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(199, 20);
+            this.label1.Size = new System.Drawing.Size(245, 25);
             this.label1.TabIndex = 2;
             this.label1.Text = "Nhap Tu So(phan so 1) ";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txt_ts_1
             // 
-            this.txt_ts_1.Location = new System.Drawing.Point(218, 37);
+            this.txt_ts_1.Location = new System.Drawing.Point(218, 41);
             this.txt_ts_1.Margin = new System.Windows.Forms.Padding(5);
             this.txt_ts_1.Multiline = true;
             this.txt_ts_1.Name = "txt_ts_1";
@@ -74,7 +74,7 @@
             this.label2.Location = new System.Drawing.Point(356, 44);
             this.label2.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(213, 20);
+            this.label2.Size = new System.Drawing.Size(261, 25);
             this.label2.TabIndex = 4;
             this.label2.Text = "Nhap Mau So(phan so 1) ";
             // 
@@ -93,7 +93,7 @@
             this.label3.Location = new System.Drawing.Point(17, 113);
             this.label3.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(199, 20);
+            this.label3.Size = new System.Drawing.Size(245, 25);
             this.label3.TabIndex = 6;
             this.label3.Text = "Nhap Tu So(phan so 2) ";
             // 
@@ -121,7 +121,7 @@
             this.label4.Location = new System.Drawing.Point(356, 113);
             this.label4.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(213, 20);
+            this.label4.Size = new System.Drawing.Size(261, 25);
             this.label4.TabIndex = 8;
             this.label4.Text = "Nhap Mau So(phan so 2) ";
             // 
@@ -131,7 +131,7 @@
             this.label5.Location = new System.Drawing.Point(17, 199);
             this.label5.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(0, 20);
+            this.label5.Size = new System.Drawing.Size(0, 25);
             this.label5.TabIndex = 10;
             // 
             // txt_out_tong
@@ -221,12 +221,12 @@
             this.label6.Location = new System.Drawing.Point(365, 194);
             this.label6.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(0, 20);
+            this.label6.Size = new System.Drawing.Size(0, 25);
             this.label6.TabIndex = 15;
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(701, 342);
             this.Controls.Add(this.txt_out_thuong);
@@ -248,7 +248,7 @@
             this.Controls.Add(this.txt_ts_1);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form2";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);

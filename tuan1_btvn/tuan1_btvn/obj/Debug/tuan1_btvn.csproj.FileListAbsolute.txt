@@ -8,3 +8,15 @@ F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan
 F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.exe
 F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.pdb
 F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Form1.resources
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\bin\Debug\tuan1_btvn.exe.config
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\bin\Debug\tuan1_btvn.exe
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\bin\Debug\tuan1_btvn.pdb
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.AssemblyReference.cache
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.SuggestedBindingRedirects.cache
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Form1.resources
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Form2.resources
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Properties.Resources.resources
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.GenerateResource.cache
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.CoreCompileInputs.cache
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.exe
+D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.pdb
