@@ -46,6 +46,7 @@
             this.btn_tich = new System.Windows.Forms.Button();
             this.txt_out_tich = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.btn_lamlai = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -54,7 +55,7 @@
             this.label1.Location = new System.Drawing.Point(17, 44);
             this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(245, 25);
+            this.label1.Size = new System.Drawing.Size(199, 20);
             this.label1.TabIndex = 2;
             this.label1.Text = "Nhap Tu So(phan so 1) ";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -67,6 +68,7 @@
             this.txt_ts_1.Name = "txt_ts_1";
             this.txt_ts_1.Size = new System.Drawing.Size(102, 38);
             this.txt_ts_1.TabIndex = 3;
+            this.txt_ts_1.TextChanged += new System.EventHandler(this.txt_ts_1_TextChanged);
             // 
             // label2
             // 
@@ -74,7 +76,7 @@
             this.label2.Location = new System.Drawing.Point(356, 44);
             this.label2.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(261, 25);
+            this.label2.Size = new System.Drawing.Size(213, 20);
             this.label2.TabIndex = 4;
             this.label2.Text = "Nhap Mau So(phan so 1) ";
             // 
@@ -93,7 +95,7 @@
             this.label3.Location = new System.Drawing.Point(17, 113);
             this.label3.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(245, 25);
+            this.label3.Size = new System.Drawing.Size(199, 20);
             this.label3.TabIndex = 6;
             this.label3.Text = "Nhap Tu So(phan so 2) ";
             // 
@@ -121,7 +123,7 @@
             this.label4.Location = new System.Drawing.Point(356, 113);
             this.label4.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(261, 25);
+            this.label4.Size = new System.Drawing.Size(213, 20);
             this.label4.TabIndex = 8;
             this.label4.Text = "Nhap Mau So(phan so 2) ";
             // 
@@ -131,7 +133,7 @@
             this.label5.Location = new System.Drawing.Point(17, 199);
             this.label5.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(0, 25);
+            this.label5.Size = new System.Drawing.Size(0, 20);
             this.label5.TabIndex = 10;
             // 
             // txt_out_tong
@@ -153,6 +155,7 @@
             this.btn_tong.TabIndex = 12;
             this.btn_tong.Text = "Tong";
             this.btn_tong.UseVisualStyleBackColor = false;
+            this.btn_tong.Click += new System.EventHandler(this.btn_tong_Click);
             // 
             // btn_hieu
             // 
@@ -163,6 +166,7 @@
             this.btn_hieu.TabIndex = 13;
             this.btn_hieu.Text = "Hieu";
             this.btn_hieu.UseVisualStyleBackColor = false;
+            this.btn_hieu.Click += new System.EventHandler(this.btn_hieu_Click);
             // 
             // txt_out_hieu
             // 
@@ -193,6 +197,7 @@
             this.btn_thuong.TabIndex = 18;
             this.btn_thuong.Text = "Thuong";
             this.btn_thuong.UseVisualStyleBackColor = false;
+            this.btn_thuong.Click += new System.EventHandler(this.btn_thuong_Click);
             // 
             // btn_tich
             // 
@@ -221,14 +226,26 @@
             this.label6.Location = new System.Drawing.Point(365, 194);
             this.label6.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(0, 25);
+            this.label6.Size = new System.Drawing.Size(0, 20);
             this.label6.TabIndex = 15;
+            // 
+            // btn_lamlai
+            // 
+            this.btn_lamlai.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.btn_lamlai.Location = new System.Drawing.Point(617, 224);
+            this.btn_lamlai.Name = "btn_lamlai";
+            this.btn_lamlai.Size = new System.Drawing.Size(90, 36);
+            this.btn_lamlai.TabIndex = 20;
+            this.btn_lamlai.Text = "Lam Lai";
+            this.btn_lamlai.UseVisualStyleBackColor = false;
+            this.btn_lamlai.Click += new System.EventHandler(this.btn_lamlai_Click);
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(701, 342);
+            this.ClientSize = new System.Drawing.Size(735, 354);
+            this.Controls.Add(this.btn_lamlai);
             this.Controls.Add(this.txt_out_thuong);
             this.Controls.Add(this.btn_thuong);
             this.Controls.Add(this.btn_tich);
@@ -277,5 +294,6 @@
         private System.Windows.Forms.Button btn_tich;
         private System.Windows.Forms.TextBox txt_out_tich;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button btn_lamlai;
     }
 }

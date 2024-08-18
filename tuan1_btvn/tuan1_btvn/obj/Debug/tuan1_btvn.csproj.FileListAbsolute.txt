@@ -20,3 +20,4 @@ D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.cspro
 D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.csproj.CoreCompileInputs.cache
 D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.exe
 D:\E\theFiveSemester\C#_Winform\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.pdb
+F:\Project\theFiveSemester\C-_Winform_basic\tuan1_btvn\tuan1_btvn\obj\Debug\tuan1_btvn.Form2.resources
